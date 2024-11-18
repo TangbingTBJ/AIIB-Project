@@ -11,6 +11,8 @@ It is important to first establish the population of states who are plausible re
 
 The dataset is in panel structure. There are 58 unique countries and 421 country years. See Figure 1 for an illustration of how many countries in the observation joined the AIIB each year. 
 
+![fig1](maps%20and%20graphs/countries_joining.png)
+Figure 1: Countries joining the AIIB Each Year
 
 
 
