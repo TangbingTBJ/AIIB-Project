@@ -1,4 +1,4 @@
-# AIIB Project
+# Identifying the Nature of Chinese Influence in the AIIB
 
 Established in January 2016, The Asian Infrastructure Investment Bank (AIIB) is a Chinese-proposed and led multilateral development bank with the stated aim of filling Asia's infrastructure gap. As of September 2024, the Bank boasts 110 member states and has made $45 billion in total lending.  
 
